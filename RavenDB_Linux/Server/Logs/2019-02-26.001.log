@@ -1,0 +1,139 @@
+Time,	Thread,	Level,	Source,	Logger,	Message,	Exception
+2019-02-26T11:13:28.3989625Z, 1, Operations, Server, Raven.Server.Program,  Build 41010, Version 4.1, SemVer 4.1.4, Commit dc2e9e3
+ PID 19902, 64 bits, 8 Cores, Arch: X64
+ 31.332 GBytes Physical Memory, 23.166 GBytes Available Memory, 23.166 GBytes Calculated Available Memory
+ Using GC in server concurrent mode retaining memory from the OS.
+2019-02-26T11:13:37.6125135Z, 21, Operations, A, Raven.Server.ServerWide.Maintenance.ClusterObserver, We give more time for the 'BenchmarkDB' stats to become stable, so we skip analyzing it for now.
+Time,	Thread,	Level,	Source,	Logger,	Message,	Exception
+2019-02-26T11:14:16.7281300Z, 1, Operations, Server, Raven.Server.Program,  Build 41010, Version 4.1, SemVer 4.1.4, Commit dc2e9e3
+ PID 20134, 64 bits, 8 Cores, Arch: X64
+ 31.332 GBytes Physical Memory, 23.189 GBytes Available Memory, 23.189 GBytes Calculated Available Memory
+ Using GC in server concurrent mode retaining memory from the OS.
+2019-02-26T11:14:25.9690480Z, 21, Operations, A, Raven.Server.ServerWide.Maintenance.ClusterObserver, We give more time for the 'BenchmarkDB' stats to become stable, so we skip analyzing it for now.
+Time,	Thread,	Level,	Source,	Logger,	Message,	Exception
+2019-02-26T11:18:38.9403064Z, 1, Operations, Server, Raven.Server.Program,  Build 41010, Version 4.1, SemVer 4.1.4, Commit dc2e9e3
+ PID 21092, 64 bits, 8 Cores, Arch: X64
+ 31.332 GBytes Physical Memory, 23.637 GBytes Available Memory, 23.637 GBytes Calculated Available Memory
+ Using GC in server concurrent mode retaining memory from the OS.
+Time,	Thread,	Level,	Source,	Logger,	Message,	Exception
+2019-02-26T11:19:13.6066605Z, 1, Operations, Server, Raven.Server.Program,  Build 41010, Version 4.1, SemVer 4.1.4, Commit dc2e9e3
+ PID 21207, 64 bits, 8 Cores, Arch: X64
+ 31.332 GBytes Physical Memory, 23.613 GBytes Available Memory, 23.613 GBytes Calculated Available Memory
+ Using GC in server concurrent mode retaining memory from the OS.
+2019-02-26T11:19:22.8302624Z, 21, Operations, A, Raven.Server.ServerWide.Maintenance.ClusterObserver, We give more time for the 'BenchmarkDB' stats to become stable, so we skip analyzing it for now.
+Time,	Thread,	Level,	Source,	Logger,	Message,	Exception
+2019-02-26T11:24:55.0905411Z, 1, Operations, Server, Raven.Server.Program,  Build 41010, Version 4.1, SemVer 4.1.4, Commit dc2e9e3
+ PID 22465, 64 bits, 8 Cores, Arch: X64
+ 31.332 GBytes Physical Memory, 23.838 GBytes Available Memory, 23.838 GBytes Calculated Available Memory
+ Using GC in server concurrent mode retaining memory from the OS.
+2019-02-26T11:25:04.3123850Z, 21, Operations, A, Raven.Server.ServerWide.Maintenance.ClusterObserver, We give more time for the 'BenchmarkDB' stats to become stable, so we skip analyzing it for now.
+Time,	Thread,	Level,	Source,	Logger,	Message,	Exception
+2019-02-26T11:27:47.3610992Z, 1, Operations, Server, Raven.Server.Program,  Build 41010, Version 4.1, SemVer 4.1.4, Commit dc2e9e3
+ PID 23223, 64 bits, 8 Cores, Arch: X64
+ 31.332 GBytes Physical Memory, 23.862 GBytes Available Memory, 23.862 GBytes Calculated Available Memory
+ Using GC in server concurrent mode retaining memory from the OS.
+2019-02-26T11:27:56.5898230Z, 21, Operations, A, Raven.Server.ServerWide.Maintenance.ClusterObserver, We give more time for the 'BenchmarkDB' stats to become stable, so we skip analyzing it for now.
+Time,	Thread,	Level,	Source,	Logger,	Message,	Exception
+2019-02-26T11:57:29.3970804Z, 1, Operations, Server, Raven.Server.Program,  Build 41010, Version 4.1, SemVer 4.1.4, Commit dc2e9e3
+ PID 25728, 64 bits, 8 Cores, Arch: X64
+ 31.332 GBytes Physical Memory, 23.209 GBytes Available Memory, 23.209 GBytes Calculated Available Memory
+ Using GC in server concurrent mode retaining memory from the OS.
+Time,	Thread,	Level,	Source,	Logger,	Message,	Exception
+2019-02-26T11:59:24.4333510Z, 1, Operations, Server, Raven.Server.Program,  Build 41010, Version 4.1, SemVer 4.1.4, Commit dc2e9e3
+ PID 26133, 64 bits, 8 Cores, Arch: X64
+ 31.332 GBytes Physical Memory, 23.211 GBytes Available Memory, 23.211 GBytes Calculated Available Memory
+ Using GC in server concurrent mode retaining memory from the OS.
+2019-02-26T11:59:32.6320881Z, 21, Operations, A, Raven.Server.ServerWide.Maintenance.ClusterObserver, We give more time for the 'BenchmarkDB' stats to become stable, so we skip analyzing it for now.
+Time,	Thread,	Level,	Source,	Logger,	Message,	Exception
+2019-02-26T12:02:29.2110993Z, 1, Operations, Server, Raven.Server.Program,  Build 41010, Version 4.1, SemVer 4.1.4, Commit dc2e9e3
+ PID 27169, 64 bits, 8 Cores, Arch: X64
+ 31.332 GBytes Physical Memory, 23.21 GBytes Available Memory, 23.21 GBytes Calculated Available Memory
+ Using GC in server concurrent mode retaining memory from the OS.
+2019-02-26T12:02:37.4527049Z, 21, Operations, A, Raven.Server.ServerWide.Maintenance.ClusterObserver, We give more time for the 'BenchmarkDB' stats to become stable, so we skip analyzing it for now.
+Time,	Thread,	Level,	Source,	Logger,	Message,	Exception
+2019-02-26T12:05:12.4611061Z, 1, Operations, Server, Raven.Server.Program,  Build 41010, Version 4.1, SemVer 4.1.4, Commit dc2e9e3
+ PID 28326, 64 bits, 8 Cores, Arch: X64
+ 31.332 GBytes Physical Memory, 23.314 GBytes Available Memory, 23.314 GBytes Calculated Available Memory
+ Using GC in server concurrent mode retaining memory from the OS.
+2019-02-26T12:05:20.7057264Z, 21, Operations, A, Raven.Server.ServerWide.Maintenance.ClusterObserver, We give more time for the 'BenchmarkDB' stats to become stable, so we skip analyzing it for now.
+2019-02-26T12:05:20.7061360Z, 21, Operations, A, Raven.Server.ServerWide.Maintenance.ClusterObserver, We give more time for the 'Stackoverflow' stats to become stable, so we skip analyzing it for now.
+Time,	Thread,	Level,	Source,	Logger,	Message,	Exception
+2019-02-26T12:09:51.5275223Z, 1, Operations, Server, Raven.Server.Program,  Build 41010, Version 4.1, SemVer 4.1.4, Commit dc2e9e3
+ PID 29543, 64 bits, 8 Cores, Arch: X64
+ 31.332 GBytes Physical Memory, 23.467 GBytes Available Memory, 23.467 GBytes Calculated Available Memory
+ Using GC in server concurrent mode retaining memory from the OS.
+Time,	Thread,	Level,	Source,	Logger,	Message,	Exception
+2019-02-26T12:10:28.7777916Z, 1, Operations, Server, Raven.Server.Program,  Build 41010, Version 4.1, SemVer 4.1.4, Commit dc2e9e3
+ PID 29705, 64 bits, 8 Cores, Arch: X64
+ 31.332 GBytes Physical Memory, 23.451 GBytes Available Memory, 23.451 GBytes Calculated Available Memory
+ Using GC in server concurrent mode retaining memory from the OS.
+2019-02-26T12:10:36.9681754Z, 21, Operations, A, Raven.Server.ServerWide.Maintenance.ClusterObserver, We give more time for the 'BenchmarkDB' stats to become stable, so we skip analyzing it for now.
+2019-02-26T12:10:36.9683180Z, 21, Operations, A, Raven.Server.ServerWide.Maintenance.ClusterObserver, We give more time for the 'Stackoverflow' stats to become stable, so we skip analyzing it for now.
+Time,	Thread,	Level,	Source,	Logger,	Message,	Exception
+2019-02-26T12:15:46.0730059Z, 1, Operations, Server, Raven.Server.Program,  Build 41010, Version 4.1, SemVer 4.1.4, Commit dc2e9e3
+ PID 30672, 64 bits, 8 Cores, Arch: X64
+ 31.332 GBytes Physical Memory, 22.987 GBytes Available Memory, 22.987 GBytes Calculated Available Memory
+ Using GC in server concurrent mode retaining memory from the OS.
+2019-02-26T12:15:54.2951716Z, 21, Operations, A, Raven.Server.ServerWide.Maintenance.ClusterObserver, We give more time for the 'BenchmarkDB' stats to become stable, so we skip analyzing it for now.
+2019-02-26T12:15:54.2953539Z, 21, Operations, A, Raven.Server.ServerWide.Maintenance.ClusterObserver, We give more time for the 'Stackoverflow' stats to become stable, so we skip analyzing it for now.
+Time,	Thread,	Level,	Source,	Logger,	Message,	Exception
+2019-02-26T12:16:58.6045370Z, 1, Operations, Server, Raven.Server.Program,  Build 41010, Version 4.1, SemVer 4.1.4, Commit dc2e9e3
+ PID 31285, 64 bits, 8 Cores, Arch: X64
+ 31.332 GBytes Physical Memory, 22.945 GBytes Available Memory, 22.945 GBytes Calculated Available Memory
+ Using GC in server concurrent mode retaining memory from the OS.
+2019-02-26T12:17:06.8657187Z, 21, Operations, A, Raven.Server.ServerWide.Maintenance.ClusterObserver, We give more time for the 'BenchmarkDB' stats to become stable, so we skip analyzing it for now.
+2019-02-26T12:17:06.8659193Z, 21, Operations, A, Raven.Server.ServerWide.Maintenance.ClusterObserver, We give more time for the 'Stackoverflow' stats to become stable, so we skip analyzing it for now.
+Time,	Thread,	Level,	Source,	Logger,	Message,	Exception
+2019-02-26T12:17:58.5199153Z, 1, Operations, Server, Raven.Server.Program,  Build 41010, Version 4.1, SemVer 4.1.4, Commit dc2e9e3
+ PID 31557, 64 bits, 8 Cores, Arch: X64
+ 31.332 GBytes Physical Memory, 22.969 GBytes Available Memory, 22.969 GBytes Calculated Available Memory
+ Using GC in server concurrent mode retaining memory from the OS.
+2019-02-26T12:18:06.7702615Z, 21, Operations, A, Raven.Server.ServerWide.Maintenance.ClusterObserver, We give more time for the 'BenchmarkDB' stats to become stable, so we skip analyzing it for now.
+2019-02-26T12:18:06.7703935Z, 21, Operations, A, Raven.Server.ServerWide.Maintenance.ClusterObserver, We give more time for the 'Stackoverflow' stats to become stable, so we skip analyzing it for now.
+Time,	Thread,	Level,	Source,	Logger,	Message,	Exception
+2019-02-26T12:23:05.3501012Z, 1, Operations, Server, Raven.Server.Program,  Build 41010, Version 4.1, SemVer 4.1.4, Commit dc2e9e3
+ PID 32694, 64 bits, 8 Cores, Arch: X64
+ 31.332 GBytes Physical Memory, 22.413 GBytes Available Memory, 22.413 GBytes Calculated Available Memory
+ Using GC in server concurrent mode retaining memory from the OS.
+2019-02-26T12:23:13.6495631Z, 21, Operations, A, Raven.Server.ServerWide.Maintenance.ClusterObserver, We give more time for the 'BenchmarkDB' stats to become stable, so we skip analyzing it for now.
+2019-02-26T12:23:13.6497481Z, 21, Operations, A, Raven.Server.ServerWide.Maintenance.ClusterObserver, We give more time for the 'Stackoverflow' stats to become stable, so we skip analyzing it for now.
+Time,	Thread,	Level,	Source,	Logger,	Message,	Exception
+2019-02-26T12:28:42.5006099Z, 1, Operations, Server, Raven.Server.Program,  Build 41010, Version 4.1, SemVer 4.1.4, Commit dc2e9e3
+ PID 1717, 64 bits, 8 Cores, Arch: X64
+ 31.332 GBytes Physical Memory, 22.742 GBytes Available Memory, 22.742 GBytes Calculated Available Memory
+ Using GC in server concurrent mode retaining memory from the OS.
+2019-02-26T12:28:50.7074127Z, 21, Operations, A, Raven.Server.ServerWide.Maintenance.ClusterObserver, We give more time for the 'BenchmarkDB' stats to become stable, so we skip analyzing it for now.
+2019-02-26T12:28:50.7075471Z, 21, Operations, A, Raven.Server.ServerWide.Maintenance.ClusterObserver, We give more time for the 'Stackoverflow' stats to become stable, so we skip analyzing it for now.
+2019-02-26T12:29:00.3481798Z, 12, Operations, Stackoverflow, Raven.Server.Smuggler.Documents.StreamSource, You are trying to import items of type 'Transformers' which is unknown or not supported in 4.1. Ignoring items.
+Time,	Thread,	Level,	Source,	Logger,	Message,	Exception
+2019-02-26T12:33:41.2649104Z, 1, Operations, Server, Raven.Server.Program,  Build 41010, Version 4.1, SemVer 4.1.4, Commit dc2e9e3
+ PID 3177, 64 bits, 8 Cores, Arch: X64
+ 31.332 GBytes Physical Memory, 22.637 GBytes Available Memory, 22.637 GBytes Calculated Available Memory
+ Using GC in server concurrent mode retaining memory from the OS.
+Time,	Thread,	Level,	Source,	Logger,	Message,	Exception
+2019-02-26T12:36:49.3240850Z, 1, Operations, Server, Raven.Server.Program,  Build 41010, Version 4.1, SemVer 4.1.4, Commit dc2e9e3
+ PID 3596, 64 bits, 8 Cores, Arch: X64
+ 31.332 GBytes Physical Memory, 22.662 GBytes Available Memory, 22.662 GBytes Calculated Available Memory
+ Using GC in server concurrent mode retaining memory from the OS.
+Time,	Thread,	Level,	Source,	Logger,	Message,	Exception
+2019-02-26T12:38:17.8233804Z, 1, Operations, Server, Raven.Server.Program,  Build 41010, Version 4.1, SemVer 4.1.4, Commit dc2e9e3
+ PID 3905, 64 bits, 8 Cores, Arch: X64
+ 31.332 GBytes Physical Memory, 22.634 GBytes Available Memory, 22.634 GBytes Calculated Available Memory
+ Using GC in server concurrent mode retaining memory from the OS.
+2019-02-26T12:38:28.0425806Z, 21, Operations, A, Raven.Server.ServerWide.Maintenance.ClusterObserver, We give more time for the 'BenchmarkDB' stats to become stable, so we skip analyzing it for now.
+2019-02-26T12:38:28.0429256Z, 21, Operations, A, Raven.Server.ServerWide.Maintenance.ClusterObserver, We give more time for the 'Stackoverflow' stats to become stable, so we skip analyzing it for now.
+2019-02-26T12:49:05.6905710Z, 3, Operations, Stackoverflow, Raven.Server.Smuggler.Documents.StreamSource, You are trying to import items of type 'Transformers' which is unknown or not supported in 4.1. Ignoring items.
+Time,	Thread,	Level,	Source,	Logger,	Message,	Exception
+2019-02-26T13:35:09.0912221Z, 1, Operations, Server, Raven.Server.Program,  Build 41010, Version 4.1, SemVer 4.1.4, Commit dc2e9e3
+ PID 5928, 64 bits, 8 Cores, Arch: X64
+ 31.332 GBytes Physical Memory, 23.243 GBytes Available Memory, 23.243 GBytes Calculated Available Memory
+ Using GC in server concurrent mode retaining memory from the OS.
+2019-02-26T13:35:19.2989014Z, 21, Operations, A, Raven.Server.ServerWide.Maintenance.ClusterObserver, We give more time for the 'BenchmarkDB' stats to become stable, so we skip analyzing it for now.
+2019-02-26T13:35:19.2992508Z, 21, Operations, A, Raven.Server.ServerWide.Maintenance.ClusterObserver, We give more time for the 'Stackoverflow' stats to become stable, so we skip analyzing it for now.
+Time,	Thread,	Level,	Source,	Logger,	Message,	Exception
+2019-02-26T13:36:07.6952175Z, 1, Operations, Server, Raven.Server.Program,  Build 41010, Version 4.1, SemVer 4.1.4, Commit dc2e9e3
+ PID 6385, 64 bits, 8 Cores, Arch: X64
+ 31.332 GBytes Physical Memory, 21.04 GBytes Available Memory, 21.04 GBytes Calculated Available Memory
+ Using GC in server concurrent mode retaining memory from the OS.
+2019-02-26T13:36:17.9471187Z, 21, Operations, A, Raven.Server.ServerWide.Maintenance.ClusterObserver, We give more time for the 'BenchmarkDB' stats to become stable, so we skip analyzing it for now.
+2019-02-26T13:36:17.9472598Z, 21, Operations, A, Raven.Server.ServerWide.Maintenance.ClusterObserver, We give more time for the 'Stackoverflow' stats to become stable, so we skip analyzing it for now.

@@ -1,0 +1,48 @@
+ 
+[96mBenchmark RavenDB: wrk - Writes
+===============================
+ 
+[94mStarting RavenDB... [92mOk... Waiting 4 Secs... Done.
+[94mCreating DB...[39m[92mOk
+[94mWarming wrk...[39m
+Running 5s test @ http://127.0.0.1:8080
+  2 threads and 10 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    18.98ms   18.51ms 175.67ms   69.78%
+    Req/Sec   776.97    240.61     1.48k    83.67%
+  7616 requests in 5.00s, 2.04MB read
+Requests/sec:   1521.74
+Transfer/sec:    417.37KB
+[94mTesting wrk - Writes...[39m
+Running 6m test @ http://127.0.0.1:8080
+  256 threads and 6144 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency   173.05ms  327.33ms   1.99s     0.00%
+    Req/Sec   383.68     98.97     3.39k    78.11%
+  34848502 requests in 6.00m, 9.24GB read
+  Socket errors: connect 0, read 5075, write 0, timeout 359461
+Requests/sec:  96774.16
+Transfer/sec:     26.27MB
+[94mTesting wrk - Reads...[39m
+Running 1m test @ http://127.0.0.1:8080
+  256 threads and 6144 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency   781.98ms  458.03ms   2.00s    58.79%
+    Req/Sec     2.16k     2.75k   22.08k    86.92%
+  10220085 requests in 1.00m, 5.38GB read
+  Socket errors: connect 0, read 23, write 0, timeout 74755
+Requests/sec: 170050.25
+Transfer/sec:     91.63MB
+[92mDone.[39m
+ 
+[94mImporting Stackoverflow Users...[39m[92m00:00:38.8812490
+[94mImporting Stackoverflow Posts...[39m[92m00:02:52.0062283
+[94mImporting Stackoverflow Indexes...[39m[92m00:00:04.2593964
+[94mWaiting for non-stale indexes at Tue Feb 26 14:49:05 IST 2019... [95m
+
+real	32m45.837s
+user	0m21.817s
+sys	0m4.870s
+[92mDone at Tue Feb 26 15:21:51 IST 2019[39m
+ 
+Bye.
